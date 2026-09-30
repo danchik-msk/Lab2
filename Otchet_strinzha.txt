@@ -1,0 +1,4 @@
+Otchet po prakticheskoy rabote 2
+Student: Strinzha D.M.
+Gruppa: TIP-52
+Tema: Izuchenie raboty v sisteme kontrolya versiy
