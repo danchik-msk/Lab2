@@ -1,0 +1,5 @@
+id_tovara
+nazvanie
+razmer
+cvet
+cena
