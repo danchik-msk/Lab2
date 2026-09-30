@@ -1,0 +1,5 @@
+id_klienta
+fio
+email
+telefon
+adres
