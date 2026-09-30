@@ -1,0 +1,5 @@
+id_zakaza
+id_klienta
+data_zakaza
+status
+summa
