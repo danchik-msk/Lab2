@@ -1,0 +1,5 @@
+id_otzyva
+id_tovara
+id_klienta
+ocenka
+tekst
